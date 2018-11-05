@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    EB HANDS ON FUL STACK WITH ANGULAR 6 AND LARAVEL 5
+                    ANGULAR 6 AND LARAVEL 5
                 </div>
 
                 <div class="links">

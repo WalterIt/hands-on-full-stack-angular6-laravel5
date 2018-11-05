@@ -253,18 +253,9 @@ exit
 
 
 -----------------------------------------------
-        modified:   DEV_NOTES.txt
-        modified:   EB_Hands_Full_Stack/backend/app/Band.php
-        new file:   EB_Hands_Full_Stack/backend/app/Http/Controllers/BandController.php
-        new file:   EB_Hands_Full_Stack/backend/database/factories/BandFactory.php
-        new file:   EB_Hands_Full_Stack/backend/database/migrations/2018_11_02_142116_create_bands_table.php
-        new file:   EB_Hands_Full_Stack/backend/database/seeds/BandsTableSeeder.php
-        modified:   EB_Hands_Full_Stack/backend/database/seeds/DatabaseSeeder.php
-        new file:   EB_Hands_Full_Stack/backend/resources/views/band.blade.php
-        new file:   EB_Hands_Full_Stack/backend/resources/views/bands/index.blade.php
-        new file:   EB_Hands_Full_Stack/backend/resources/views/bands/show.blade.php
-        modified:   EB_Hands_Full_Stack/backend/routes/web.php
- 
+
+
+
 
 
 
