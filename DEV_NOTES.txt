@@ -259,6 +259,9 @@ CHAPTER 04
 CH04 Building the Baseline Backend Application  - 46 min
 See Notes on OneNotes
 
+wshir@DESKTOP-MTMVSEK MINGW64 ~/Documents/DOCKERPROJECTS/EB_Hands_On_Full_Stack (back/ch04)
+$ git commit -m'Created migration bike_table/Bikes Seeder from bikes.json | Updated DatabaseSeeder'
+
 
 ################################################################################################
 
