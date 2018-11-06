@@ -275,12 +275,16 @@ Generating and publishing the API documentation
 
 CHAPTER 05
 
+ Creating a RESTful API Using Laravel - Part 1
+
+  Preparing the application and understanding what we are building
+  What we are building
+
+ Committed : Added Models and Migration files.  
+
+
+
  
-
-
-
-
-
 
 
 
