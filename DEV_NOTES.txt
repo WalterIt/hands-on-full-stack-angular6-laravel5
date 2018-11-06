@@ -263,11 +263,21 @@ wshir@DESKTOP-MTMVSEK MINGW64 ~/Documents/DOCKERPROJECTS/EB_Hands_On_Full_Stack 
 $ git commit -m'Created migration bike_table/Bikes Seeder from bikes.json | Updated DatabaseSeeder'
 
 
+
+Installing the L5-Swagger library (!! --  NOT WORKING!! --  !!)
+
+Creating the application API controller
+
+Generating and publishing the API documentation
+
+
+
+
 ################################################################################################
 
 CHAPTER 05
 
-
+ 
 
 
 
